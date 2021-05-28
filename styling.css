@@ -82,3 +82,14 @@ body {
   font-variant: normal;
   font-weight: 400;
 }
+.page-wrapper {
+  background-color: #b2d5d5 !important;
+}
+
+.text-grey {
+  color: #4f4e4e;
+}
+
+.page-wrapper {
+  margin-top: 15rem;
+}
