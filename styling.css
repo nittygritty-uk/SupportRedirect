@@ -1,0 +1,84 @@
+.link-button {
+  background-color: rgb(255, 169, 0);
+  border: none;
+}
+
+h1 {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+h2 {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+h3 {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 15.4px;
+}
+p {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+blockquote {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+pre {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
+}
+span {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+input {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+button {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+body {
+  font-family: "Franklin Gothic Book", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+}
